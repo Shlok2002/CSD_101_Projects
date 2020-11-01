@@ -6,6 +6,8 @@
 
 2. Please fill in the entries in the following format:
 
+3. [GitHub](https://github.com/Shlok2002/CSD_101_Projects.git "Project Home")
+
     * Sample input 1:
 
         ```C

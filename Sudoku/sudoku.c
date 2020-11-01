@@ -16,6 +16,7 @@ int main()
     int row, column;
     printf("Enter Sudoku entries separated by spaces.\n");
     printf("Enter 0 for unknown entries.\n");
+    printf("Please read the 'README.md' file for more instructions.\n");
     for (row = 0; row < 9; row++)
         for (column = 0; column < 9; column++)
             scanf("%d", &sudoku[row][column]);

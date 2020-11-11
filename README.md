@@ -4,5 +4,6 @@
 * List of Projects:
 
   1. Sudoku Puzzle Solver.
+  2. Tic-Tac-Toe Computer Player.
       
   

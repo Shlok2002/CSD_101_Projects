@@ -5,5 +5,6 @@
 
   1. Sudoku Puzzle Solver.
   2. Tic-Tac-Toe Computer Player.
+  3. Advanced Scientific Calculator .
       
   

@@ -6,7 +6,6 @@
 
 2. Please fill in the entries in the following format:
 
-3. <!--[GitHub](https://github.com/Shlok2002/CSD_101_Projects.git "Project Home") <!-- GitHub link of the project.-->
 
     * Sample input 1:
 
@@ -35,5 +34,6 @@
        6 4 0 9 7 0 5 3 1
        0 7 8 0 0 1 0 4 2
        ```
-     
+     <!-- 3. [GitHub](https://github.com/Shlok2002/CSD_101_Projects.git "Project Home") <!-- GitHub link of the project.-->
+
      

@@ -7,8 +7,6 @@
 
 2. It supports multiple operations.
 
-3.
-
 
 #### List of Supported Operations 
 
